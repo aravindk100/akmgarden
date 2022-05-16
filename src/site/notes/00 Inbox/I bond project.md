@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/i-bond-project/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"finance/ibond","permalink":"/finance/ibond/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
