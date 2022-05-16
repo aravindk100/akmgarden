@@ -4,4 +4,6 @@
 
 
 
-[I bond project](I%20bond%20project.md)
+[[00 Inbox/I bond project|I bond project]]
+
+[Watch list](../06%20Watch/Watch%20list.md)
