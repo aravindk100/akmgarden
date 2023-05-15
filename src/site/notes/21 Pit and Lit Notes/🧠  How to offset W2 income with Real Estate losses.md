@@ -18,16 +18,19 @@ project::[[10 Projects/⚒️ Saving on tax\|⚒️ Saving on tax]]
 			- Using home while doing work is not considered personal use
 			- renting under fair market value is considered personal use
 			- renting to immediate family (brothers etc.) is considered personal use
-		- Need to materially participate in the short term rental
-			- 7 ways to ensure you materially participate
-				- 3 common ones
-					- Need to spend 100 hours and more than any body else (OR)
-					- 500 hours (OR)
-					- your participation was substantially all the participations
-			- What activities count towards materially participating?
-				- real property development, redevelopment, construction, reconstruction, acquisition, conversion, rental operation, management, leasing, or brokerage trade or business.”
-				- https://semiretiredmd.com/material-participation-for-a-vacation-rental/
-- Typically depreciation for rental property is done over 27.5 years
+	- In both cases you need to materially participate in the rental
+		- 7 ways to ensure you materially participate
+			- 3 common ones
+				- Need to spend 100 hours and more than any body else (OR)
+				- 500 hours (OR)
+				- your participation was substantially all the participations
+		- What activities count towards materially participating?
+			- real property development, redevelopment, construction, reconstruction, acquisition, conversion, rental operation, management, leasing, or brokerage trade or business.”
+			- https://semiretiredmd.com/material-participation-for-a-vacation-rental/
+	- You can materially participate in some rental and choose to group such that other out of state rentals can also come under the same bucket
+		- [ ] Can you do material pariticipation grouping for short term rentals? 
+	- You can materially participate in one year where you expect net loss ( with big depreciation) and go back to passive next year
+- Typically, depreciation for rental property is done over 27.5 years
 	- (Purchase price? - land value)/27.5 years
 	- Land cannot be depreciated (same goes for work done on land like landscaping etc)
 	- And this depreciation can be used against W2 or business incomes if you qualify for REPS or STR loop hole
@@ -37,6 +40,7 @@ project::[[10 Projects/⚒️ Saving on tax\|⚒️ Saving on tax]]
 - With bonus depreciation, you can take a big chunk of that accelerated depreciation in first year
 	- 100 % in '22, 80% in 23, and so on until it phases out to zero in 2027
 	- At that point regular accelerated depreciation still holds?
+	- Even if bonus depreciation comes against passive income it is suspended and carried forward and you can use it to offset sales rather than doing 1031 exchange
 - So when using STR loophole with material participation and bonus depreciation you can offset your W2 and based on your tax rate it could mean getting almost the equivalent of your down payment back
 	- e.g purchase price 500k with 100k down payment (20%)
 	- bonus depreciation of 30% = 150k deduction (100% in 2022 ...)
@@ -66,6 +70,7 @@ project::[[10 Projects/⚒️ Saving on tax\|⚒️ Saving on tax]]
 
 
 # Open Actions
+- [ ] Can you do material pariticipation grouping for short term rentals?
 - [ ] Is there an impact against deduction with ordinary income?
 
 
