@@ -70,7 +70,7 @@ Add the attach file (the one without arrow) command  into your quick access tool
 ![Attach file snapshot.excalidraw.png|600](/img/user/99%20Attachments/Attach%20file%20snapshot.excalidraw.png)
 
 
-![Pasted image 20221221001121.png](/img/user/99%20Attachments/Pasted%20image%2020221221001121.png)
+![Pasted image 20221221001121.png|undefined](/img/user/99%20Attachments/Pasted%20image%2020221221001121.png)
 
 
 
@@ -95,7 +95,7 @@ Enable Markdown link instead of wiki link when pasting images (in Obsidian)
 	Use Ctrl +Shift + L (plugin - wiki to md link ) on each link to convert
 ### Using Filters to remove Wiki link
 When using Markdown link plugin does not provide option to change links to text, so we will need to change the wiki link using the filter mechanism. 
-![Pasted image 20221220234809.png](/img/user/99%20Attachments/Pasted%20image%2020221220234809.png)
+![Pasted image 20221220234809.png|undefined](/img/user/99%20Attachments/Pasted%20image%2020221220234809.png)
 To know more about filter see below 
 
 ## To be done
