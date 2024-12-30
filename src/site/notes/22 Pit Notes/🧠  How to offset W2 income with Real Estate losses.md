@@ -5,6 +5,8 @@
 goal:: 
 project::[[10 Projects/⚒️ Saving on tax\|⚒️ Saving on tax]] 
 
+``` toc
+```
 
 # Summary
 - When rental activity is considered non-passive (or active) losses can be deducted against ordinary income
